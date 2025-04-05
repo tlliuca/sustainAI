@@ -519,7 +519,7 @@ ul.sponsors {
 	border-top-width: 8px;
 	border-top-style: solid;
 	border-top-color: #2F2F2F;
-	background-color: #000000;
+	background-color: #4F2683;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
@@ -547,6 +547,6 @@ ul.sponsors {
 
 #footer p,
 #footer address {
-	color: #8F8F8F;
+	color: #FFFFFF;
 	font-size: 11px;
 }
